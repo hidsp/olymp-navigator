@@ -1,0 +1,8 @@
+{
+  "name": "ОлимпНавигатор",
+  "description": "Умный агрегатор и ИИ-поисковик бесплатных курсов, интенсивов и архивов для подготовки к ВсОШ и перечневым олимпиадам РСОШ в России.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
